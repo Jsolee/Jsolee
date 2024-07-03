@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joan Solé</h1>
-![Banner](https://images.pexels.com/photos/1936299/pexels-photo-1936299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940)
-<h3 align="center">I'm a **Computer Engineering Student** at **FIB UPC**</h3>
+<h3 align="center">I'm a Computer Engineering Student at FIB UPC</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsolee&label=Profile%20views&color=0e75b6&style=flat" alt="jsolee" /> </p>
 
